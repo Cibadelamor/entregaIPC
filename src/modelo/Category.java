@@ -9,5 +9,6 @@ package modelo;
  * @author esteb
  */
 public class Category {
-    
+    private String name;
+    private String description;
 }
